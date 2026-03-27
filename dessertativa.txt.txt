@@ -1,0 +1,11 @@
+Forma Dissertativa
+
+1.Inicio do algoritmo
+2.Solicitar ao usuário um número inteiro n
+3.Ler o valor digitado
+4.Calcular a dezena: n - 1
+5.Calcular a unidade: unidade = 10 - n
+6.Calcular o resultado final:
+  resultado= (dezena x 10) + unidade
+7.Exibir o resultado das multiplicações de 9 por n
+8.Fim do algoritmo
